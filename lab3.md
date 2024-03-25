@@ -103,7 +103,7 @@
 
 
 ## __4. Выбор предметов__
-![Uploading Снимок экрана 2024-03-25 в 13.18.10](https://github.com/srapchegs/rtippo/assets/160636893/8d30249a-8f4b-4cfe-9a57-36eac3563eea)
+![Uploading Снимок экрана 2024-03-24 в 14.16.50](https://github.com/srapchegs/rtippo/assets/160636893/52b744a9-f1bc-405e-b3b5-fe9b8579c4f3)
 
 
 1. Начать игру
