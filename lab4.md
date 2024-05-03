@@ -2,14 +2,14 @@
 # Системные диаграммы взаимодействий
 
 ## __1. Ввод имени__
-<img width="494" alt="Снимок экрана 2024-04-19 в 15 19 46" src="https://github.com/srapchegs/rtippo/assets/160636893/4c8177d2-e51a-4fae-89e3-ec4476e5d3b8">
+<img width="643" alt="1" src="https://github.com/srapchegs/rtippo/assets/160636893/1c87003c-93f1-4d80-aae5-31585edb271c">
 
 
 ## __2. Бросок жребия__
-<img width="450" alt="Снимок экрана 2024-04-19 в 15 34 19" src="https://github.com/srapchegs/rtippo/assets/160636893/82ecaf35-a957-4a9e-b291-0fd18b0cfadd">
+<img width="644" alt="2" src="https://github.com/srapchegs/rtippo/assets/160636893/17957441-19d6-4ea4-b02b-83fab1ce057f">
 
 ## __3. Настройка таймера__
-<img width="246" alt="Снимок экрана 2024-04-19 в 16 33 04" src="https://github.com/srapchegs/rtippo/assets/160636893/ff73eb34-768e-4275-a6d3-515c29f89cd7">
+<img width="643" alt="3" src="https://github.com/srapchegs/rtippo/assets/160636893/c38cdb1b-eb2f-42dd-84f9-e279cdb7477c">
 
 ## __4. Выбор предметов__
-<img width="638" alt="Снимок экрана 2024-04-19 в 16 50 51" src="https://github.com/srapchegs/rtippo/assets/160636893/6e3a25c2-df10-4a73-aa71-09129976320d">
+<img width="638" alt="4" src="https://github.com/srapchegs/rtippo/assets/160636893/29ccf0b0-1645-4ac6-b2de-a3dc47035b2c">
