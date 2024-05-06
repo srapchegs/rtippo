@@ -2,7 +2,7 @@
 # Системные диаграммы взаимодействий
 
 ## __1. Ввод имени__
-<img width="903" alt="image" src="https://github.com/srapchegs/rtippo/assets/160636893/e760d4cd-0418-4dba-9742-4051a276f47f">
+<img width="846" alt="image" src="https://github.com/srapchegs/rtippo/assets/160636893/a59a1b04-e323-40ca-9457-069bd2ca158a">
 
 |Действие| createGameButton_Click()|
 |---|---|
