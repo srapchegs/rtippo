@@ -1,0 +1,19 @@
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\bin\Debug\Remember Objects.exe.config
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\bin\Debug\Remember Objects.exe
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\bin\Debug\Remember Objects.pdb
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember Objects.csproj.AssemblyReference.cache
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember_Objects.Properties.Resources.resources
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember Objects.csproj.GenerateResource.cache
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember Objects.csproj.CoreCompileInputs.cache
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember Objects.exe
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember Objects.pdb
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember_Objects.StartScreen.resources
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\bin\Debug\asa-TZ\Remember Objects.resources.dll
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember_Objects.AddingPlayerScreen.resources
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember_Objects.SetSequenceScreen.resources
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember_Objects.TimerScreen.resources
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember_Objects.ItemScreen.resources
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember_Objects.GameScreen.resources
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember_Objects.ResultScreen.resources
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\Remember_Objects.SetSequenceScreen.asa-TZ.resources
+C:\Users\sraperanosan\source\repos\Remember Objects\Remember Objects\obj\Debug\asa-TZ\Remember Objects.resources.dll
