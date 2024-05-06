@@ -2,7 +2,7 @@
 # Системные диаграммы взаимодействий
 
 ## __1. Ввод имени__
-<img width="643" alt="1" src="https://github.com/srapchegs/rtippo/assets/160636893/1c87003c-93f1-4d80-aae5-31585edb271c">
+<img width="903" alt="image" src="https://github.com/srapchegs/rtippo/assets/160636893/e760d4cd-0418-4dba-9742-4051a276f47f">
 
 |Действие| createGameButton_Click()|
 |---|---|
@@ -65,7 +65,7 @@
 |Постусловие|Открытие формы для определения очереди|
 
 ## __2. Бросок жребия__
-<img width="644" alt="2" src="https://github.com/srapchegs/rtippo/assets/160636893/17957441-19d6-4ea4-b02b-83fab1ce057f">
+<img width="592" alt="image" src="https://github.com/srapchegs/rtippo/assets/160636893/866963f7-5f2d-4c58-bcd3-36fb1ad31f61">
 
 |Действие| randomButton_Click()|
 |---|---|
@@ -104,7 +104,7 @@
 |Постусловие|Открытие формы для настройки времени таймера|
 
 ## __3. Настройка таймера__
-<img width="643" alt="3" src="https://github.com/srapchegs/rtippo/assets/160636893/c38cdb1b-eb2f-42dd-84f9-e279cdb7477c">
+<img width="629" alt="image" src="https://github.com/srapchegs/rtippo/assets/160636893/3550beb3-d21b-4230-a1f3-a5cc5ab6be4e">
 
 |Действие| startGameButton_Click()|
 |---|---|
@@ -149,7 +149,7 @@
 |Постусловие|Открытие формы с отобранными предметами|
 
 ## __4. Выбор предметов__
-<img width="638" alt="4" src="https://github.com/srapchegs/rtippo/assets/160636893/29ccf0b0-1645-4ac6-b2de-a3dc47035b2c">
+<img width="663" alt="image" src="https://github.com/srapchegs/rtippo/assets/160636893/d6a1eb4c-353b-466f-b79f-1a1f13917055">
 
 |Действие| startGameButton_Click()|
 |---|---|
